@@ -1,4 +1,4 @@
-# 50 Pound Weighted Blanket Ecommerce website
+# *50 Pound Weighted Blanket Ecommerce website*
 Welcome to my repository for the *SleepStone* Weighted Blanket Ecommerce Website. 
 This is a website for a company dedicated to selling high-quality 50-pound weighted blankets.
 It offers a user-friendly interface for customers to browse and purchase these specialized blankets,
